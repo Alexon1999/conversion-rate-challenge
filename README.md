@@ -2,6 +2,11 @@
 
 <p align="center"> <img src="dsw_logo.png" width="250"> </p>
 
+
+## Video presentation
+
+[Conversion rate challenge - Video presentation](https://share.vidyard.com/watch/hb2kUTCm27EvdrnkZr68Qu?second=171)
+
 ## Context 
 
 [Data Science Weekly](www.datascienceweekly.org) is a newsletters created by independent data scientists. These data scientists would like to understand better the behaviour of the users visiting their website. To do so, they open-sourced a dataset containing some data about the traffic on their website and held a competition aiming at building a machine learning model that allows to predict the conversions (i.e. when a user will subscribe to the newsletter). They would like to analyze the parameters of the model to highlight features that are important to explain the behaviour of the users, and maybe discover a new lever for action to improve the newsletter's conversion rate. To assess the rankings of the different competing teams, the site ownerss decided to use the f1-score.
